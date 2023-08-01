@@ -1,5 +1,0 @@
-logging:
-  level:
-    hello:
-      spring:
-        mvc: debug
